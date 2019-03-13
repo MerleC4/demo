@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Wellington here.
+ * Write a description of class Wellington here
  *
  * @author (your name)
  * @version (a version number or a date)
